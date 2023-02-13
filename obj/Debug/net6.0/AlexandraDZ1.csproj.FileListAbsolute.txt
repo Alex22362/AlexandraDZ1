@@ -1,0 +1,15 @@
+C:\Users\Александра\Desktop\rabotaa\AlexandraDZ1\bin\Debug\net6.0\AlexandraDZ1.exe
+C:\Users\Александра\Desktop\rabotaa\AlexandraDZ1\bin\Debug\net6.0\AlexandraDZ1.deps.json
+C:\Users\Александра\Desktop\rabotaa\AlexandraDZ1\bin\Debug\net6.0\AlexandraDZ1.runtimeconfig.json
+C:\Users\Александра\Desktop\rabotaa\AlexandraDZ1\bin\Debug\net6.0\AlexandraDZ1.dll
+C:\Users\Александра\Desktop\rabotaa\AlexandraDZ1\bin\Debug\net6.0\AlexandraDZ1.pdb
+C:\Users\Александра\Desktop\rabotaa\AlexandraDZ1\obj\Debug\net6.0\AlexandraDZ1.csproj.AssemblyReference.cache
+C:\Users\Александра\Desktop\rabotaa\AlexandraDZ1\obj\Debug\net6.0\AlexandraDZ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александра\Desktop\rabotaa\AlexandraDZ1\obj\Debug\net6.0\AlexandraDZ1.AssemblyInfoInputs.cache
+C:\Users\Александра\Desktop\rabotaa\AlexandraDZ1\obj\Debug\net6.0\AlexandraDZ1.AssemblyInfo.cs
+C:\Users\Александра\Desktop\rabotaa\AlexandraDZ1\obj\Debug\net6.0\AlexandraDZ1.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Desktop\rabotaa\AlexandraDZ1\obj\Debug\net6.0\AlexandraDZ1.dll
+C:\Users\Александра\Desktop\rabotaa\AlexandraDZ1\obj\Debug\net6.0\refint\AlexandraDZ1.dll
+C:\Users\Александра\Desktop\rabotaa\AlexandraDZ1\obj\Debug\net6.0\AlexandraDZ1.pdb
+C:\Users\Александра\Desktop\rabotaa\AlexandraDZ1\obj\Debug\net6.0\AlexandraDZ1.genruntimeconfig.cache
+C:\Users\Александра\Desktop\rabotaa\AlexandraDZ1\obj\Debug\net6.0\ref\AlexandraDZ1.dll
